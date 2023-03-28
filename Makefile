@@ -1,5 +1,5 @@
 PKG_NAME := pypi-types_toml
-URL = https://files.pythonhosted.org/packages/cc/25/fc285fbd470559e775dad4990f99a52305976ed4dba299bd7e44ba6aaa71/types-toml-0.10.8.5.tar.gz
+URL = https://files.pythonhosted.org/packages/7a/cc/935b70ca52a18ef08dc77e0a622ac6b602bea52a794fe033e78b5c9e8e7e/types-toml-0.10.8.6.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
