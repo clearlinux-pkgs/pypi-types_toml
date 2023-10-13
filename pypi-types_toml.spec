@@ -5,7 +5,7 @@
 #
 Name     : pypi-types_toml
 Version  : 0.10.8.7
-Release  : 9
+Release  : 10
 URL      : https://files.pythonhosted.org/packages/0d/c3/290afb9e9263d6639fa60ac25d9c26fef86ea207fa9862a5a07afb6f2639/types-toml-0.10.8.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/0d/c3/290afb9e9263d6639fa60ac25d9c26fef86ea207fa9862a5a07afb6f2639/types-toml-0.10.8.7.tar.gz
 Summary  : Typing stubs for toml
